@@ -21,7 +21,6 @@ public class LoadItemCommand extends ClientCommand {
 	@Override
 	public void processCommand(ICommandSender sender, String[] args) throws CommandException {
 		if (DadJokeMod.savedItem != null) {
-			EntityArrow
 			mc.thePlayer.inventory.setInventorySlotContents(3, DadJokeMod.savedItem);
 		}
 	}
