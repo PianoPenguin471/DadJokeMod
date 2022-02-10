@@ -1,0 +1,16 @@
+[
+{
+  "modid": "dadjokebot",
+  "name": "Dad Joke Bot",
+  "description": "Tells a dad joke to whoever asks for one.",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "https://icanhazdadjoke.com/",
+  "updateUrl": "",
+  "authorList": ["PianoPenguin472"],
+  "credits": "C653 for the api",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
